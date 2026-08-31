@@ -1,0 +1,350 @@
+Policy_ID,Applicant_Age,Gender,Marital_Status,Vehicle_Year,Vehicle_Make,Vehicle_Model,Annual_Mileage,Years_Driving_Exp,At_Fault_Accidents_5yr,Speeding_Tickets_3yr,DUI,Credit_Score,Coverage_Type,Prior_Insurance_Carrier,Claim_Amount_Last_Year,State
+AUTO-1002,23,M,Married,2016,Jeep,Wrangler,21390,6,2,3,TRUE,729,COMP,Nationwide,1200,TX
+AUTO-1003,66,M,Widowed,2010,Ford,F-150,10055,48,0,0,N,399,Collision,USAA,1200,CA
+AUTO-1004,64,FEMALE,Single,2012,Toyta,Corolla,23599,44,0,2,Y,371,Comprehensive,Allstate,1200,NY
+AUTO-1005,72,M,Single,2012,Ford,Focus,23830,54,0,1,No,,LIAB,Farmers,0,MD
+AUTO-1007,35,Male,Married,2018,Frod,F-150,24477,16,1,3,N,446,Collision,Progressive,500,IN
+AUTO-1008,52,male,Widowed,2018,Chevrolet,Malibu,10186,35,1,1,Yes,348,Comprehensive,Progressive,0,VA
+AUTO-1009,56,Male,Widowed,2012,Jeep,Grand Cherokee,20338,38,1,0,Yes,849,Collision,USAA,0,MI
+AUTO-1010,45,M,Widowed,2000,Ford,Escape,8854,25,0,3,No,819,Liability,Allstate,0,AZ
+AUTO-1011,66,M,Single,2019,Frod,Focus,3638,50,0,1,Y,359,COMP,American Family,0,NY
+AUTO-1012,64,FEMALE,Single,2024,,3 Series,7207,45,1,0,No,840,Liability,Liberty Mutual,500,IN
+AUTO-1013,66,fe,Married,2022,Ford,Focus,24295,48,1,2,N,423,COMP,Allstate,0,WA
+AUTO-1014,19,F,Married,2018, Honnda,Civic,5326,3,0,0,Yes,638,Comprehensive,Travelers,500,NC
+AUTO-1015,60,FEMALE,Married,2017,Honda,CR-V,21711,40,1,0,N,716,COMP,Geico,0,VA
+AUTO-1016,40,FEMALE,Widowed,2014,Toyota,RAV4,24412,24,0,1,No,411,COMP,Allstate,500,IN
+AUTO-1017,46,M,Widowed,2005,Ford,Focus,11185,30,1,2,Yes,351,LIAB,Travelers,0,NY
+AUTO-1018,66,M,Married,2013,Nissan,Sentra,10004,47,0,0,N,302,COLL,Farmers,15000,MI
+AUTO-1019,45,fe,Widowed,2004,Honnda,Accord,10133,29,1,3,TRUE,362,LIAB,USAA,0,CA
+AUTO-1020,55,FEMALE,Married,2001,BMW,3 Series,9089,39,1,0,Y,713,Comprehensive,American Family,500,MO
+AUTO-1021,56,Male,Single,2013,Jeep,Grand Cherokee,11544,39,2,3,No,544,Collision,Liberty Mutual,0,MI
+AUTO-1022,47,male,Single,2000,Nissan,Rogue,21448,31,0,2,Y,818,Collision,Progressive,3000,NY
+AUTO-1023,74,M,Divorced,2009,Honda,Accord,20800,56,1,3,TRUE,308,LIAB,Travelers,1200,FL
+AUTO-1024,74,M,Divorced,2003,Toyta,Camry,11924,56,1,0,No,508,LIAB,Farmers,15000,NC
+AUTO-1025,75,Male,Single,2020,Chevrolet,Malibu,4444,59,0,0,No,465,LIAB,Nationwide,7500,IN
+AUTO-1026,18,Male,Single,2022,Honda,CR-V,4180,0,1,2,Y,740,COMP,State Farm,1200,AZ
+AUTO-1027,75,Male,Divorced,2006,Honnda,Civic,14589,55,1,2,Y,542,COMP,Progressive,7500,TX
+AUTO-1028,29,fe,Divorced,2013, Honnda,Accord,8216,13,1,0,N,527,COMP,Nationwide,3000,MI
+AUTO-1029,70,M,Married,2000,Honnda,Accord,13756,52,0,1,No,821,COLL,Travelers,3000,TX
+AUTO-1030,25,male,Married,2018,Ford,F-150,6552,5,1,1,No,746,Liability,Travelers,0,CO
+AUTO-1031,75,F,Married,2008,Toyota,RAV4,17288,59,1,2,Y,672,COLL,Geico,3000,MD
+AUTO-1032,38,fe,Single,2023,Ford,Escape,13134,19,0,1,No,430,COMP,Liberty Mutual,7500,PA
+AUTO-1033,57,F,Divorced,2012,BMW,3 Series,-1500,39,0,1,TRUE,629,COLL,Nationwide,15000,IL
+AUTO-1034,50,FEMALE,Married,2021,Toyta,Corolla,19890,30,0,0,Y,617,COMP,Allstate,0,TX
+AUTO-1035,20,M,Widowed,2019,Toyta,Corolla,16580,0,0,3,N,806,COLL,Allstate,0,TX
+AUTO-1036,75,Male,Widowed,2007,Honda,CR-V,19972,56,0,2,Y,424,COLL,Progressive,15000,MA
+AUTO-1037,53,F,Divorced,2024,Nissan,Rogue,19540,34,1,1,Y,786,COLL,Farmers,500,NC
+AUTO-1038,67,F,Widowed,2020,Honnda,,17413,51,2,1,Y,578,Collision,USAA,0,OH
+AUTO-1039,27,M,Widowed,2022,Honda,CR-V,10010,11,1,1,No,777,COLL,State Farm,500,VA
+AUTO-1040,42,F,Single,2024,Jeep,Grand Cherokee,18629,26,0,1,N,729,Liability,Travelers,500,TN
+AUTO-1041,5,male,Widowed,2015,Toyota,Corolla,14014,13,2,0,N,430,Liability,Travelers,0,CO
+AUTO-1042,55,F,Single,2002,Chevrolet,Silverado,18128,38,0,1,N,635,COMP,Nationwide,3000,WA
+AUTO-1043,66,FEMALE,Divorced,2024,Chevrolet,Malibu,5683,47,0,3,TRUE,353,Collision,Allstate,0,CA 
+AUTO-1044,66,Male,Married,2006,Toyota,RAV4,7993,49,0,1,Yes,523,COLL, Farmers ,3000,PA
+AUTO-1045,56,F,Single,2024,Honda,Accord,6542,36,0,1,TRUE,684,COLL,Allstate,0,MO
+AUTO-1046,62,fe,Married,2003,Ford,Escape,22674,46,1,0,No,845,COLL,USAA,0,MA
+AUTO-1047,59,male,Single,2013,Nissan,Altima,17205,41,2,1,Y,745,COMP,Travelers,1200,MD
+AUTO-1048,69,F,Widowed,2014,Chevrolet,Equinox,22414,51,0,0,Yes,585,COLL,Allstate,15000,MO
+AUTO-1049,57,fe,Widowed,2010,Toyota,Corolla,13650,40,1,0,No,-50,Collision,Farmers,1200,IN
+AUTO-1050,18,F,Married,2002,Honnda,Accord,19009,0,0,3,N,802,COLL,State Farm,0,MI
+AUTO-1051,32,FEMALE,Married,2009,Jeep,Grand Cherokee,18507,12,1,1,N,638,Collision,Nationwide,1200,MI
+AUTO-1052,34,M,Single,2023,Honnda,Accord,6917,14,2,0,Y,521,LIAB,Nationwide,1200,MO
+AUTO-1053,66,F,Divorced,2003,Honnda,Accord,10454,48,0,1,Yes,900,COMP,Farmers,0,CA
+AUTO-1054,53,male,Married,2020,Nissan,Altima,3401,33,0,1, N ,751,Collision,Progressive,0,NC
+AUTO-1055,73,FEMALE,Single,2002,Chevrolet,Malibu,5427,53,2,3,Yes,455,COMP,American Family,1200,NY
+AUTO-1056,33,Male,Widowed,2019,Jeep,Wrangler,20123,14,1,1,No,739,Collision,American Family,0,MD
+AUTO-1057,65,Male,Married,2020,Honnda,Accord,24640,49,0,0,Y,376,COMP,State Farm,7500,NJ
+AUTO-1058,62,F,Widowed,2009,Toyota,Camry,12440,44,2,1,Yes,539,Collision,American Family,500,VA
+AUTO-1059,25,F,Married,2020,Honda,Accord,7660,9,0,0,No,595,COLL,Geico,,MI
+AUTO-1060,62,FEMALE,Divorced,2016,BMW,5 Series,17344,46,1,0,N,630,Liability,Farmers,0,NY
+AUTO-1061,32,fe,Single,2024,Ford,Escape,4318,15,1,2,N,584,COMP,American Family,7500,TN
+AUTO-1062,23,FEMALE,Divorced,2013,Frod,Focus,24958,7,0,1,N,807,Collision,Liberty Mutual,0,NJ
+AUTO-1063,23,male,Divorced,2010,Toyta,Corolla,19862,7,2,2,N,723,Comprehensive,Allstate,3000,MD
+AUTO-1064,66,FEMALE,Widowed,2024,Toyota,Camry,11750,46,0,1,N,796,Comprehensive,State Farm,500,PA
+AUTO-1065,37,F,Single,2017,Chevrolet,Silverado,10362,21,1,0,Y,810,LIAB,Farmers,1200,VA
+AUTO-1066,71,FEMALE,Widowed,2007,Nissan,Rogue,7739,52,0,2,TRUE,439,Comprehensive,Farmers,7500,WA
+AUTO-1067,68,F,Divorced,2000,Ford,Escape,12783,48,1,3,N,452,COLL,Travelers,15000,AZ
+AUTO-1068,39,F,Widowed,2014,Frod,F-150,10825,19,1,0,N,344,Collision,Nationwide,7500,CO
+AUTO-1069,60,fe,Married,2015,Toyota,Camry,19459,40,0,0,N,402,Liability,Nationwide,0,OH
+AUTO-1070,44,fe,Married,2002,Nissan,Sentra,14093,24,2,1,Yes,636,LIAB,Travelers,7500,WA
+AUTO-1071,58,fe,Widowed,2017,Toyota,RAV4,5242,41,2,3,No,532,LIAB,Geico,7500,FL
+AUTO-1072,66,fe,Single,2014,Honda,CR-V,12812,50,0,,Yes,600,Collision,USAA,7500,OH
+AUTO-1073,33,F,Widowed,2018,Honda,Civic,8736,17,1,1,TRUE,546,COLL,American Family,0,GA
+AUTO-1074,47,fe,Divorced,2014,Ford,Escape,3307,28,0,3,TRUE,461,Comprehensive,Nationwide,3000,MO
+AUTO-1075,37,fe,Widowed,2022,Ford,Focus,12899,20,1,1,Yes,542,COLL,American Family,3000,MO
+AUTO-1076,36,fe,Divorced,2000,Chevrolet,Malibu,3265,16,2,3,Yes,808,Collision,Allstate,3000,GA
+AUTO-1077,58,M,Divorced,2021,Honda,CR-V,6183,42,0,1,Yes,673,LIAB,Progressive,0,MI
+AUTO-1078,38,fe,Widowed,2005,Honnda,Civic,20675,20,1,2,No,468,Collision,Nationwide,1200,WA
+AUTO-1079,69,Male,Widowed,2002,Honda,Civic,16022,49,0,0,N,314,Collision,Travelers,0,NJ
+AUTO-1188,71,F,Widowed,2010,Nissan,Sentra,17110,51,0,1,No,505,COLL,USAA,0,CO
+AUTO-1080,41,fe,Divorced,2018,Chevrolet,Equinox,15172,25,2,0,N,325,Liability,Travelers,3000, MD 
+AUTO-1081,32,fe,Single,2020,Nissan,Rogue,12902,13,0,0,Yes,338,Collision,Nationwide,0,FL
+AUTO-1082,33,F,Married,2012,Nissan,Sentra,24970,13,1,2,Y,724,LIAB,Geico,15000,MD
+AUTO-1083,44,male,Single,2022,Frod,F-150,17528,25,0,1,Yes,676,Liability,USAA,0,CO
+AUTO-1084,35,M,Single,2014,Toyta,Camry,24027,15,0,0,No,549,COMP,American Family,500,NY
+AUTO-1085,71,F,Married,2018,Honnda,Civic,13766,54,1,0,No,448,,Travelers,1200,PA
+AUTO-1086,25,fe,Single,1980,Toyota,Corolla,10796,5,0,0,Y,571,Comprehensive,Progressive,7500,MA
+AUTO-1087,25,fe,Single,2015,Nissan,Sentra,19817,5,0,1,TRUE,526,Liability,State Farm,1200,NJ
+AUTO-1088,59,Male,Single,2015,Chevrolet,Malibu,6537,40,2,1,Yes,382,Collision,American Family,0,NY
+AUTO-1089,26,male,Divorced,2012,Jeep,Grand Cherokee,17867,6,1,1,Yes,417,LIAB,Travelers,500,VA
+AUTO-1090,46,M,Widowed,2010,Nissan,Sentra,16631,30,0,1,No,561,Collision,Progressive,15000,NY
+AUTO-1091,23,Male,Single,2013,Toyta,Corolla,7263,3,0,2,TRUE,637,LIAB,Geico,7500,AZ
+AUTO-1092,73,fe,Widowed,2023,Toyota,Corolla,22674,55,0,0,TRUE,819,COMP,Progressive,15000,GA
+AUTO-1093,72,Male,Divorced,2017,Frod,F-150,12128,52,0,1,TRUE,326,Liability,Farmers,0,PA
+AUTO-1094,35,fe,Divorced,2010,Frod,F-150,8944,18,1,3,N,371,COMP,State Farm,0,MA
+AUTO-1095,31,FEMALE,Widowed,2014,Frod,F-150,15125,13,2,1,TRUE,386,Comprehensive,Progressive,0,MD
+AUTO-1096,21,fe,Single,2008,Nissan,Rogue,16894,2,1,1,N,579,COMP,Travelers,0,AZ
+AUTO-1097,45,Male,Divorced,2021,Jeep,Grand Cherokee,20266,27,0,0,N,356,Comprehensive,Allstate,1200,IL
+AUTO-1098,67,M,Divorced,2009,Frod,F-150,3253,48,2,1,,432,COLL,,500,MA
+AUTO-1099,53,fe,Divorced,2002,Chevrolet,Equinox,4386,34,0,1,Yes,620,Liability,Liberty Mutual,7500,VA
+AUTO-1100,36,Male,Widowed,2000,Frod,F-150,23254,17,2,1,Yes,747,Comprehensive,Allstate,7500,MO
+AUTO-1101,43,F,Single,2012,Ford,Escape,14125,26,0,0,Yes,822,LIAB,Geico,500,AZ
+AUTO-1102,40,fe,Married,2007,Toyta,Camry,11387,23,0,2,Y,377,COMP,Nationwide,15000,MO
+AUTO-1103,66,F,Widowed,2021,Jeep,Grand Cherokee,23552,48,0,1,Yes,780,COLL,Farmers,1200,MO
+AUTO-1104,21,male,Single,2009,Nissan,Sentra,4232,5,0,1,Yes,392,Liability,American Family,7500,NJ
+AUTO-1105,55,F,Single,2014,Jeep,Wrangler,13535,35,1,2,Y,363,COLL,Geico,3000,NY
+AUTO-1106,50,fe,Married,2001,Honnda,Accord,17398,30,1,2,Y,672,Collision,Farmers,7500,VA
+AUTO-1107,67,male,Single,2020,Frod,F-150,13803,51,1,3,N,590,Collision,American Family,0,WA
+AUTO-1108,99,F,Married,2011,Ford,Escape,24696,4,0,2,Yes,617,Liability,Liberty Mutual,3000,OH
+AUTO-1109,60,fe,Single,2020,Chevrolet,Equinox,14856,44,0,1,Y,519,Collision,Nationwide,500,GA
+AUTO-1110,26,M,Single,2009,Toyta,Camry,24690,8,1,0,TRUE,685,COMP,Progressive,0,MD
+AUTO-1111,69,M,Widowed,2001,Chevrolet,Malibu,10783,50,1,1,N,539,Liability,Allstate,1200,TN
+AUTO-1112,75,M,Divorced,2021,Jeep,Grand Cherokee,18128,57,1,2,TRUE,728,COMP,Allstate,0,NC
+AUTO-1113,21,fe,Widowed,2011,BMW,3 Series,19905,5,0,0,Y,579,COLL,Travelers,0,VA
+AUTO-1114,23,M,Widowed,2011,Toyota,Corolla,4745,4,1,1,Y,695,Comprehensive,USAA,500,TX
+AUTO-1115,38,Male,Divorced,2004,Honda,Civic,12400,19,2,0,N,759,Liability,State Farm,0,TX
+AUTO-1116,34,M,Married,2017,Jeep,Grand Cherokee,6643,16,0,1,Yes,348,COMP,Liberty Mutual,15000,NY
+AUTO-1117,22,FEMALE,Single,2020,BMW,X5,10927,29,0,1,Yes,661,COMP,American Family,7500,PA
+AUTO-1118,60,fe,Single,2016,Frod,F-150,20237,40,1,2,TRUE,320,COLL,Nationwide,0,CO
+AUTO-1119,41,male,Single,2011,Toyta,Corolla,10901,25,1,3,No,436,Comprehensive,USAA,3000,PA
+AUTO-1120,71,fe,Widowed,2022,Nissan,Rogue,8972,54,0,3,N,337,Collision,Allstate,0,IL
+AUTO-1121,74,Male,Divorced,2009,BMW,5 Series,20794,55,0,0,Y,592,Collision,State Farm,3000,NC
+AUTO-1122,25,male,Widowed,2012,Nissan,Sentra,14109,8,1,3,N,676,Liability,Farmers,0,VA
+AUTO-1123,23,FEMALE,Married,2017,Ford,Focus,6361,7,0,3,No,613,COLL,American Family,7500,PA
+AUTO-1124,62,FEMALE,Divorced,2014,Toyota,RAV4,14552,42,1,1,Yes,376,LIAB,Liberty Mutual,3000,MA
+AUTO-1125,69,fe,Married,2000,Honda,CR-V,17358,53,0,0,Y,675,Collision,Liberty Mutual,0,MD
+AUTO-1126,27,fe,Widowed,2011,Frod,Focus,5519,7,0,2,No,707,Collision,Farmers,500,FL
+AUTO-1127,19,fe,Married,2015,BMW,5 Series,21404,3,0,1,N,519,Liability,Farmers,15000,IL
+AUTO-1128,25,M,Single,2014,Honda,CR-V,17585,9,2,1,No,366,Liability,Travelers,1200,MI
+AUTO-1129,72,M,Married,2011,BMW,3 Series,6976,55,0,0,N,326,Collision,Travelers,3000,NJ
+AUTO-1130,69,F,Married,2019,Toyta,Camry,13134,50,2,3,N,838,COLL,Liberty Mutual,0,OH
+AUTO-1131,38,fe,Single,2014,Nissan,Rogue,19952,20,0,2,TRUE,486,COMP,Liberty Mutual,0,FL
+AUTO-1132,51,M,Divorced,2005,Honda,Accord,10388,33,1,1,Yes,556,COMP,Travelers,1200,OH
+AUTO-1133,58,male,Single,2016,Honda,CR-V,22026,41,0,3,TRUE,645,Liability,State Farm,0,NY
+AUTO-1158,69,fe,Married,2024,Honnda,Civic,20219,50,1,3,No,379,Liability,Geico,0,IN
+AUTO-1134,20,fe,Divorced,2020,Honnda,Accord,23254,4,1,3,TRUE,596,LIAB,Farmers,15000,GA
+AUTO-1135,69,fe,,2009,Nissan,Altima,4963,52,1,1,N,775,COMP,USAA,0, WA
+AUTO-1136,73,fe,Divorced,2023,Frod,Focus,7284,55,1,2,Yes,626,COMP,Nationwide,0,NC
+AUTO-1137,19,M,Married,2003,Toyota,Corolla,15587,26,1,0,Y,635,Liability,USAA,500,PA
+AUTO-1138,49,F,Widowed,2015,Ford,Focus,3759,33,1,2,N,546,COMP,American Family,3000,CA
+AUTO-1139,21,male,Widowed,2019,Nissan,Sentra,20586,5,0,1,Y,570,LIAB,USAA,7500,AZ
+AUTO-1140,20,FEMALE,Single,2018,BMW,3 Series,14879,0,0,0,N,816,COLL,Travelers,1200,
+AUTO-1141,61,F,Single,2004,Toyta,Corolla,15228,43,1,1,Y,503,Liability,Travelers,7500,MA
+AUTO-1142,20,Male,Single,2004,Frod,Focus,20017,1,0,2,TRUE,443,Collision,American Family,3000,PA
+AUTO-1143,43,F,Divorced,2018,Frod,Focus,21445,25,1,0,No,639,LIAB,Geico,7500,MO
+AUTO-1144,37,fe,Single,2019,Nissan,Sentra,24482,17,1,0,Yes,791,COMP,Travelers,7500,OH
+AUTO-1145,70,fe,Married,2001,Jeep,Wrangler,9251,54,1,1,N,455,COLL,Allstate,7500,MA
+AUTO-1146,67,F,Widowed,2023,Toyota,RAV4,7524,47,,2,No,789,Liability,Liberty Mutual,3000,PA
+AUTO-1147,47,F,Divorced,2017,Frod,Focus,22990,28,0,0,No,605,COMP,Farmers,1200,IL
+AUTO-1148,62,fe,Widowed,2010,Nissan,Sentra,21366,44,0,0,TRUE,688,COLL,USAA,0,MI
+AUTO-1149,20,male,Single,2011,Nissan,Rogue,11403,1,0,0,TRUE,577,Liability,Farmers,0,FL
+AUTO-1150,18,fe,Married,2007,Toyota,RAV4,20401,23,2,0,Yes,402,COLL,USAA,15000,FL
+AUTO-1151,61,M,Single,2017,Honda,Accord,24393,42,1,3,Y,594,Collision,Farmers,0,NY
+AUTO-1152,59,F,Married,2017,Toyota,Camry,16693,42,0,1,N,490,LIAB,Farmers,0,TX
+AUTO-1153,37,F,Single,2010,Ford,Focus,24014,17,1,1,Y,816,COLL,Farmers,500,FL
+AUTO-1155,,male,Single,2012,Toyta,Camry,7607,31,0,0,Yes,567,COLL,Allstate,15000,NC
+AUTO-1156,39,male,Single,2008,Frod,F-150,5035,23,1,1,Y,715,LIAB,Travelers,1200,FL
+AUTO-1157,58,male,Divorced,2019,Honnda,Civic,7376,39,0,1,TRUE,682,COLL,Travelers,15000,IN
+AUTO-1158,69,fe,Married,2024,Honnda,Civic,20219,50,1,3,No,379,Liability,Geico,0,IN
+AUTO-1159,75,F,Married,2018,BMW, 3 Series,8391,57,1,1,Yes,510,LIAB,American Family,15000,NY
+AUTO-1160,75,F,Widowed,2001,Nissan,Altima,19818,56,1,2,Yes,773,LIAB,Farmers,0,CO
+AUTO-1161,22,Male,Married,2018,Toyta,Camry,16883,30,2,0,TRUE,361,Comprehensive,Nationwide,0,MI
+AUTO-1162,44,M,Married,2024,Chevrolet,Malibu,15533,25,1,1,Yes,436,LIAB,USAA,0,PA
+AUTO-1163,22,FEMALE,Married,2023,Honnda,Civic,3744,31,1,3,TRUE,734,Liability,Liberty Mutual,500,GA
+AUTO-1164,47,male,Married,2008,Honnda,Civic,4055,28,1,0,Y,511,Comprehensive,Geico,0,NJ
+AUTO-1165,56,fe,Single,2007,Toyota,Corolla,17383,39,1,0,Yes,443,Liability,Farmers,500,MO
+AUTO-1166,38,F,Divorced,2007,Ford,F-150,24633,18,0,1,No,581,Comprehensive,Travelers,0,VA
+AUTO-1167,53,FEMALE,Single,2011,Chevrolet,Equinox,13444,34,1,0,No,685,COMP,Travelers,15000,GA
+AUTO-1168,72,M,Divorced,2022,Honda,Accord,4888,52,1,1,TRUE,842,COMP,Liberty Mutual,500,NC
+AUTO-1169,31,male,Single,2014,Frod,F-150,20551,14,0,1,N,340,Comprehensive,Allstate,500,TN
+AUTO-1170,31,male,Divorced,2000,Honnda,Civic,6844,12,0,3,TRUE,509,COLL,Allstate,3000,MI
+AUTO-1171,42,FEMALE,Divorced,2009,Ford,Focus,19803,23,1,0,N,627,COMP,USAA,3000,VA
+AUTO-1172,20,F,Married,2023,Honda,Civic,11545,0,1,2,N,602,COMP,Allstate,3000,GA
+AUTO-1173,42,F,Married,2015,BMW,X5,14061,24,1,3,N,771,COMP,USAA,0,OH
+AUTO-1174,64,F,Widowed,2005,BMW,X5,4924,44,0,0,Yes,306,COLL,Progressive,500,NY
+AUTO-1175,63,M,Single,2006,BMW,5 Series,15229,47,1,3,TRUE,794,LIAB,Nationwide,0,TX
+AUTO-1176,52,F,Widowed,2000,Toyota,RAV4,12002,32,0,0,TRUE,740,COMP,Geico,0,MA
+AUTO-1177,27,M,Married,2019,BMW,5 Series,14614,9,1,0,No,715,COLL,American Family,500,GA
+AUTO-1178,37,fe,Single,2020,Toyota,Camry,16280,18,1,,N,357,LIAB,State Farm,0,NY
+AUTO-1179,49,FEMALE,Divorced,2018,Toyta,Camry,10528,32,2,2,N,577,Comprehensive,Geico,1200,IN
+AUTO-1180,54,fe,Single,2005,Frod,F-150,9788,34,0,3,N,378,Collision,Progressive,500,MO
+AUTO-1181,71,FEMALE,Divorced,2012,Honda,CR-V,5569,51,2,1,Yes,400,COLL,Allstate,0,WA
+AUTO-1182,56,F,Widowed,2024,Frod,F-150,23778,38,1,1,Y,664,Liability,Liberty Mutual,7500,PA
+AUTO-1183,61,F,Widowed,2002,Jeep,Grand Cherokee,11075,45,0,1,Y,689,LIAB,Progressive,7500,WA
+AUTO-1184,41,Male,Single,2000,Ford,Focus,14793,23,0,0,Yes,491,COLL,Nationwide,7500,FL
+AUTO-1185,19,Male,Divorced,2017,Toyta,Corolla,15623,3,0,1,N,386,LIAB,Travelers,500,MO
+AUTO-1186,51,M,Widowed,2005,Honda,Accord,12867,33,1,0,Yes,471,COLL,Farmers,7500,MI
+AUTO-1187,48,Male,Divorced,2008,Honnda,Accord,22457,28,0,1,Yes,438,Collision,State Farm,7500,WA
+AUTO-1188,71,F,Widowed,2010,Nissan,Sentra,17110,51,0,1,No,505,COLL,USAA,0,CO
+AUTO-1189,38,male,Widowed,2018,Honnda,Accord,15322,20,1,1,Yes,504,Liability,Travelers,0,IN
+AUTO-1190,19,fe,Widowed,2022,Honnda,Accord,12546,3,1,3,N,442,LIAB,Farmers,500,NC
+AUTO-1191,60,M,Widowed,2012,Toyta,Corolla,22593,41,1,1,TRUE,818,LIAB,Liberty Mutual,0,AZ
+AUTO-1192,62,F,Single,2003,Honnda,Accord,8450,42,0,2,N,639,COLL,Geico,0,FL
+AUTO-1193,34,M,Married,2014,Frod,Focus,18173,14,2,2,Y,653,Comprehensive,Nationwide,0,MI
+AUTO-1194,44,Male,Single,2023,Honda,Accord,13220,26,1,0,TRUE,794,Collision,Nationwide,0,NJ
+AUTO-1195,64,fe,Widowed,2010,Toyta,Corolla,4464,,0,1,Yes,468,LIAB,Allstate,0,IN
+AUTO-1196,28,male,Widowed,2014,Honnda,Accord,23635,11,0,3,N,705,Comprehensive,American Family,500,NJ
+AUTO-1197,55,FEMALE,Widowed,2000,Honnda,Civic,12120,39,1,0,TRUE,491,Collision,USAA,500,NJ
+AUTO-1198,25,male,Widowed,2016,Frod,Focus,23031,6,1,0,No,660,COLL,American Family,0,MI
+AUTO-1199,57,F,Single,2021,Honda,Accord,6862,40,0,0,Y,682,LIAB,Progressive,7500,VA
+AUTO-1200,56,M,Widowed,2013,Honda,Accord,23824,36,2,3,Y,470,COLL,Farmers,0, PA 
+AUTO-1201,38,FEMALE,Single,2011,Toyota,Corolla,7473,21,1,2,TRUE,806,COLL,Nationwide,7500,NJ
+AUTO-1202,49,M,Single,2018,Toyota,Camry,12571,33,0,0,TRUE,595,COMP,Nationwide,15000,IN
+AUTO-1203,50,Male,Single,2008,BMW,5 Series,20761,34,2,1,TRUE,523,COLL,Geico,500,MI
+AUTO-1204,73, Male ,Widowed,2008,Frod,F-150,999999,,0,0,TRUE,659,LIAB,American Family,7500,PA
+AUTO-1205,57,M,Married,2006,Toyota,RAV4,14495,37,0,2,TRUE,472,Collision,Farmers,1200,MO
+AUTO-1206,35,F,Single,2004,Chevrolet,Silverado,12087,18,2,0,Y,449,LIAB,USAA,500,CO
+AUTO-1207,49,M,Divorced,2020,Chevrolet,Malibu,17810,33,2,0,N,827,LIAB,Farmers,3000,NJ
+AUTO-1208,49,male,Single,2024,Toyta,Corolla,23802,31,0,2,N,523,COLL,Allstate,15000,NC
+AUTO-1209,38,male,Divorced,2017,Jeep,Wrangler,21551,19,0,3,Yes,347,Comprehensive,Nationwide,0,FL
+AUTO-1210,72,M,Widowed,2014,Toyota,Corolla,9629,55,2,1,Y,580,Comprehensive,USAA,1200,NY
+AUTO-1211,41,fe,Married,2001,Chevrolet,Equinox,13010,24,1,3,Yes,397,Comprehensive,Allstate,15000,NY
+AUTO-1227,39,Male,Widowed,2023,Ford,F-150,9723,19,0,1,N,361,COMP,Farmers,0,CA
+AUTO-1212,26,F,Married,2016,Nissan,Altima,,8,0,1,Y,789,Comprehensive,Allstate,7500,NY
+AUTO-1213,64,Male,Single,2010,Frod,Focus,7493,45,0,3,Y,370,Liability,American Family,0,MD
+AUTO-1214,59,M,Widowed,2011,Honnda,Civic,16490,39,2,1,Y,388,Comprehensive,Progressive,0,MO
+AUTO-1215,64,FEMALE,Divorced,2013,Frod,F-150,11119,46,2,0,Y,591,LIAB,State Farm,1200,IL
+AUTO-1216,51,F,Married,2023,Chevrolet,Malibu,24173,35,0,1,N,415,COMP,Nationwide,0,MA
+AUTO-1217,74,Male,Divorced,2010,Honda,Accord,21624,,0,2,Y,782,Comprehensive,State Farm,0,TX
+AUTO-1218,34,M,Single,2001,Chevrolet,Equinox,12387,14,1,1,N,384,LIAB,Travelers,0,NC
+AUTO-1219,23,male,Single,2016,Honnda,Civic,20576,5,1,2,Yes,617,LIAB,Liberty Mutual,500,CA
+AUTO-1220,33,Male,Widowed,2003,Nissan,Rogue,22950,17,0,3,Y,422,Comprehensive,Progressive,0,PA
+AUTO-1221,49,male,Divorced,2005,Frod,F-150,11806,33,0,,N,578,Liability,Geico,1200,MO
+AUTO-1222,58,Male,Widowed,2014,BMW,5 Series,4816,39,1,0,No,461,Collision,Geico,0,GA
+AUTO-1223,65,F,Single,2001,Toyota,Camry,4506,46,0,1,Y,483,Comprehensive,Travelers,7500,GA
+AUTO-1224,38,M,Widowed,2023,Frod,Focus,5552,18,0,0,TRUE,353,COMP,Allstate,0,CO
+AUTO-1225,22,FEMALE,Divorced,2024,Ford,Focus,5830,2,1,0,No,505,Collision,American Family,1200,MD
+AUTO-1226,33,FEMALE,Divorced,2018,Nissan,Altima,20909,16,0,0,N,324,COMP,Travelers,3000,TX
+AUTO-1227,39,Male,Widowed,2023,Ford,F-150,9723,19,0,1,N,361,COMP,Farmers,0,CA
+AUTO-1228,32,F,Widowed,2022,Frod,Focus,5782,12,0,2,Y,703,Comprehensive,American Family,0,VA
+AUTO-1229,60,M,Married,2009,Ford,Focus,15876,42,0,1,No,539,Comprehensive,Allstate,0,MO
+AUTO-1230,24,M,Single,2005,Nissan,Sentra,13290,5,0,2,No,512,COLL,Farmers,15000,NC
+AUTO-1231,72,Male,Single,2005,Ford,Escape,22769,56,0,1,Y,393,LIAB,Allstate,3000,CO
+AUTO-1232,50,Male,Divorced,2008,Honda,Civic,16251,31,1,3,TRUE,555,Comprehensive,Nationwide,0,OH
+AUTO-1233,25,Male,Single,2024,Honnda,Civic,9492,6,0,3,Yes,565,Comprehensive,State Farm,0,IL
+AUTO-1234,75,fe,Widowed,2004,Toyta,Corolla,7014,59,1,0,Y,743,LIAB,Liberty Mutual,15000,TX
+AUTO-1235,42,fe,Widowed,2005,Frod,F-150,9132,24,0,1,Y,335,Liability,American Family,500,MI
+AUTO-1236,49,FEMALE,Widowed,2001,Toyta,Corolla,15550,32,1,0,TRUE,555,LIAB,Travelers,0,CO
+AUTO-1237,68,fe,Divorced,2015,BMW,5 Series,14273,48,1,1,N,576,COMP,State Farm,3000,MD
+AUTO-1238,32,Male,Divorced,2001,Nissan,Rogue,14712,12,0,0,Yes,553,LIAB,Allstate,1200,IN
+AUTO-1239,70,fe,Single,2024,Honnda,Accord,14626,53,0,0,TRUE,625,LIAB,USAA,0,AZ
+AUTO-1240,54,F,Married,2018,Honnda,Accord,20764,36,0,1,Yes,392,Comprehensive,Allstate,500,TX
+AUTO-1241,,FEMALE,Single,2010,Jeep,Wrangler,7275,33,2,0,No,360,Comprehensive,Progressive,0,FL
+AUTO-1242,72,F,Divorced,2002,Frod,Focus,22202,56,0,1,No,439,COMP,Liberty Mutual,15000,WA
+AUTO-1243,29,fe,Divorced,2007,Jeep, Wrangler,15398,11,2,3,No,430,COMP,State Farm,7500,MO
+AUTO-1244,20,M,Divorced,2019,Honnda,Civic,19258,3,0,3,Yes,543,Collision,USAA,0,NY
+AUTO-1245,70,fe,Divorced,2014,Toyota,Corolla,9870,53,2,0,No,562,Comprehensive,State Farm,0,CO
+AUTO-1246,46,fe,Widowed,2005,Chevrolet,Malibu,15409,28,1,1,Yes,790,Liability,Allstate,0,NJ
+AUTO-1247,22,Male,Divorced,2000,Frod,Focus,6431,6,0,0,N,464,LIAB,Geico,0,WA
+AUTO-1248,56,F,Widowed,2022,Toyota,Corolla,24418,39,1,1,Y,354,Comprehensive,USAA,500,IL
+AUTO-1249,44,fe,Divorced,2021,Ford,Focus,10783,28,0,1,TRUE,802,COMP,State Farm,3000,TX
+AUTO-1250,45,Male,Divorced,2021,Jeep,Grand Cherokee,9542,29,0,0,Y,598,Comprehensive,Nationwide,0,MI
+AUTO-1251,68,FEMALE,Widowed,2015,Ford,F-150,24032,48,1,0,No,690,Collision,Progressive,15000,CA
+AUTO-1252,34,FEMALE,Widowed,2008,Honnda,Accord,21489,18,0,3,Yes,387,LIAB,USAA,7500,
+AUTO-1253,32,F,Single,2012,BMW,5 Series,20547,13,1,0,N,606,Comprehensive,Liberty Mutual,0,MA
+AUTO-1254,54,F,Married,2003,Nissan,Altima,8477,37,0,0,Yes,733,Comprehensive,Liberty Mutual,500,OH
+AUTO-1255,71,F,Divorced,2010,Toyta,Camry,15717,51,1,2,No,582,Liability,Nationwide,0,MD
+AUTO-1256,55,F,Widowed,2003,Chevrolet,Silverado,7856,35,1,2,Yes,408,Liability,Geico,1200,IN
+AUTO-1257,74,male,Widowed,2008,Chevrolet,Equinox,18911,54,1,1,Yes,476,Collision,Liberty Mutual,0,MD
+AUTO-1258,56,fe,Widowed,2001,Chevrolet,Malibu,10784,40,2,1,No,681,Comprehensive,USAA,1200,MI
+AUTO-1259,35,FEMALE,Single,2007,Honda,Accord,17519,17,0,3,N,391,COMP,Nationwide,500,VA
+AUTO-1260,65,FEMALE,Divorced,2001,BMW,3 Series,5150,47,2,2,N,438,Liability,American Family,0,PA
+AUTO-1261,30,M,Single,2007,Toyota,Corolla,4656,12,2,0,No,677,COLL,Travelers,7500,FL
+AUTO-1262,61,Male,Married,2011,Nissan,Rogue,17617,44,1,2,TRUE,658,Collision,Progressive,1200,NY
+AUTO-1263,36,Male,Widowed,2001,Honda,CR-V,10022,19,2,0,Y,575,LIAB,Liberty Mutual,0,TX
+AUTO-1264,48,M,Married,2019,Toyota,Camry,11270,28,0,3,No,733,COLL,USAA,15000,NC
+AUTO-1265,31,FEMALE,Divorced,2021,BMW,X5,16013,11,,0,TRUE,683,Liability,American Family,1200,MI
+AUTO-1266,61,Male,Widowed,2002,Frod,Focus,23991,43,0,1,No,492,COMP,Travelers,500,CA
+AUTO-1267,69,F,Widowed,2021,Frod,F-150,3834,50,0,1,N,714,COLL,State Farm,500,WA
+AUTO-1268,64,fe,Married,2021,,X5,18588,46,1,1,Y,485,Collision,Geico,15000,OH
+AUTO-1269,65,male,Married,2021,Frod,F-150,10282,47,0,3,No,730,Collision ,USAA,1200,MO
+AUTO-1270,36,FEMALE,Single,2015,Toyota,RAV4,22122,16,1,0,N,499,Liability,Geico,7500,MA
+AUTO-1271,37,FEMALE,Single,2004,Honda,Civic,14228,18,1,1,Y,623,LIAB,Progressive,0,TN
+AUTO-1272,39,fe,Married,2010,Toyota,Camry,17812,21,0,0,TRUE,462,COLL,Geico,0,MD
+AUTO-1273,45,fe,Widowed,2012,Chevrolet,Malibu,15560,29,0,2,Y,682,Comprehensive,USAA,500,TX
+AUTO-1274,61,Male,Married,2007,Frod,Focus,7224,45,1,2,TRUE,613,COMP,Geico,0,MI
+AUTO-1275,36,FEMALE,Divorced,2013,Honda,Accord,19062,18,0,0,N,319,COMP,Allstate,0,IL
+AUTO-1276,64,Male,Married,2003,Frod,F-150,15294,46,1,2,Yes,349,LIAB,Geico,0,CA
+AUTO-1277,62,Male,Widowed,2014,Chevrolet,Silverado,20933,44,1,3,Y,510,LIAB,State Farm,1200,VA
+AUTO-1278,60,Male,Divorced,2019,Jeep,Wrangler,16724,44,1,3,TRUE,420,Collision,Geico,0,TN
+AUTO-1279,30,F,Married,2024,Ford,Escape,9608,12,2,1,No,464,Comprehensive,Travelers,15000,IL
+AUTO-1280,62,FEMALE,Divorced,2007,Toyota,Camry,5916,46,1,3,N,452,Comprehensive,Travelers,0,FL
+AUTO-1281,75,male,Married,2014,Ford,Focus,18213,59,0,0,Yes ,597,Collision,USAA,7500,FL
+AUTO-1282,24,Male,Single,2004,Honda,Accord,14715,5,1,1,Yes,681,Collision,Progressive,0,CO
+AUTO-1283,43,FEMALE,Divorced,2012,Nissan,Sentra,24261,26,0,0,Yes,463,Comprehensive,Liberty Mutual,15000,MO
+AUTO-1284,61,FEMALE,Married,2019,Chevrolet,Malibu,23032,45,2,3,Y,794,COLL,Geico,7500,NJ
+AUTO-1285,20,Male,Divorced,2020,Frod,F-150,20197,0,2,2,Y,646,Liability,Travelers,0,VA
+AUTO-1286,60,fe,Married,2015,Frod,Focus,7871,40,1,0,Yes,460,Liability,Nationwide,15000,PA
+AUTO-1287,22,FEMALE,Divorced,2007,Frod,Focus,4649,2,0,2,N,712,COMP,Geico,15000,NJ
+AUTO-1288,69,F,Widowed,2002,Nissan,Sentra,13356,53,1,3,Yes,405,COLL,,0,IN
+AUTO-1289,53,Male,Single,2019,Jeep,Grand Cherokee,19657,33,0,3,N,649,Collision,State Farm,500,NJ
+AUTO-1290,39,F,Widowed,2022,Frod,Focus,6736,23,2,0,Yes,649,Collision,Farmers,3000,FL
+AUTO-1291,20,M,Widowed,2004,Chevrolet,Silverado,11332,0,0,0,Yes,702,COMP,Nationwide,500,WA
+AUTO-1292,24,FEMALE,Single,2020,Jeep,Wrangler,17762,5,2,2,TRUE,437,COLL,State Farm,0,IN
+AUTO-1293,45,F,Widowed,2016,Honda,CR-V,21958,28,2,0,Yes,696,LIAB,American Family,3000,MA
+AUTO-1294,74,FEMALE,Widowed,2019,Honnda,Accord,16037,56,0,1,Y,441,COLL,American Family,1200,IN
+AUTO-1295,73,male,Married,2006,Honnda,Accord,14314,56,2,3,Y,815,Liability,USAA,0,AZ
+AUTO-1296,53,FEMALE,Widowed,2021,BMW,5 Series,16840,37,1,0,Yes,690,COMP,State Farm,0,IL
+AUTO-1297,35,M,Divorced,2021,Ford,F-150,5032,17,0,2,Yes,667,COLL,Geico,500,IN
+AUTO-1298,42,M,Divorced,2022,Toyota,Corolla,15699,23,2,1,TRUE,355,Comprehensive,Farmers,500,MD
+AUTO-1299,73,FEMALE,Married,2020,Frod,F-150,9340,55,1,0,Yes,491,COMP,Travelers,0,CO
+AUTO-1300,20,FEMALE,Divorced,2017,Ford,F-150,8273,0,0,0,No,777,LIAB,Progressive,0,OH
+AUTO-1301,38,F,Single,2024,Jeep,Grand Cherokee,19074,18,1,1,Yes,625,Liability,Allstate,0,MA
+AUTO-1302,22,F,Married,2013,BMW,X5,16219,6,0,0,Y,639,Collision,USAA,1200,IL
+AUTO-1303,66,F,Widowed,2017,Toyota,Camry,24919,48,1,0,TRUE,549,Comprehensive,USAA,7500,FL
+AUTO-1304,42,male,Divorced,2000,BMW,5 Series,19852,22,1,1,Yes,603,LIAB,Allstate,3000,MA
+AUTO-1305,23,Male,Married,2024,BMW,X5,3240,7,0,3,Y,734,Comprehensive,Allstate,7500,NY
+AUTO-1306,65,fe,Married,2000,Nissan,Rogue,13869,,0,0,Yes,482,Collision,Travelers,0,MO
+AUTO-1307,70,M,Divorced,2013,Chevrolet,Malibu,23650,51,1,1,Yes,698,LIAB,Geico,0,MD
+AUTO-1308,22,fe,Single,2022,Toyta,Corolla,19476,6,0,3,No,388,Collision,Nationwide,7500,CO
+AUTO-1309,70,fe,Single,2015,Honda,CR-V,10204,53,2,1,TRUE,602,LIAB,Progressive,1200,AZ
+AUTO-1310,18,F,Married,2003,Toyota,Camry,21766,0,1,2,TRUE,387,Collision,Allstate,3000,IL
+AUTO-1311,44,fe,Married,2005,Honda,Civic,23214,26,0,0,Y,355,Liability,Nationwide,0,MI
+AUTO-1312,60,Male,Divorced,2003,Honnda,Accord,13841,42,0,3,Y,402,Collision,American Family,0,IL
+AUTO-1313,38,FEMALE,Widowed,2010,Jeep,Grand Cherokee,22142,21,1,2,No,623,COLL,Progressive,0,WA
+AUTO-1314,33,M,Widowed,2008,Frod,F-150,13864,14,1,1,No,612,COLL,Travelers,0,PA
+AUTO-1315,59,F,Single,2008,Honda,CR-V,9436,41,2,3,Yes,377,Comprehensive,Travelers,0,MO
+AUTO-1316,55,FEMALE,Married,2001,BMW,5 Series,20808,35,1,3,Y,674,COLL,Allstate,1200,OH
+AUTO-1317,47,F,Single,2012, Frod ,F-150,24714,30,1,3,Y,826,COMP,Nationwide,,PA
+AUTO-1318,54,F,Married,2023,Nissan,Sentra,4324,37,1,0,Yes,570,Collision,Allstate,0,IL
+AUTO-1319,51,male,Widowed,2015,Nissan,Altima,4307,33,0,3,TRUE,580,LIAB,Farmers,0,CO
+AUTO-1320,59,FEMALE,Divorced,2018,Toyta,Corolla,15331,42,1,1,No,653,COLL,Nationwide,0,MA
+AUTO-1321,74,M,Widowed,2005,Honnda,Civic,19860,56,0,0,Y,461,Collision,American Family,0,GA
+AUTO-1322,44,male,Single,2015,Nissan,Sentra,9904,24,0,3,N,322,COMP,State Farm,0,MO
+AUTO-1323,55,M,Married,2020,BMW,3 Series,21752,38,0,0,No,484,Liability,Liberty Mutual,0,MI
+AUTO-1324,23,M,Widowed,2019,Nissan,Sentra,8589,6,1,2,Y,486,Liability,Travelers,1200,PA
+AUTO-1325,64,fe,Divorced,2014,Jeep,Wrangler,10530,45,1,0,Yes,316,COMP,Travelers,7500,OH
+AUTO-1326,56,Male,Married,2015,Jeep,Wrangler,20413,36,0,0,N,433,Liability,Travelers,0,VA
+AUTO-1327,51,FEMALE,Divorced,2001,BMW,5 Series,10519,32,1,1,TRUE,400,COLL,Progressive,1200,TN
+AUTO-1328,67,M,Single,2009,Jeep,Grand Cherokee,11447,50,0,3,Yes,835,Comprehensive,Travelers,0,CO
+AUTO-1329,59,M,Divorced,2013,Frod,F-150,8071,40,2,2,No,567,Liability,Liberty Mutual,3000,MD
+AUTO-1330,35,fe,Widowed,2024,Honnda,Accord,21091,15,1,0,No,795,Collision,Farmers,3000,CO
+AUTO-1331,65,M,Single,2023,Honnda,Accord,8301,49,0,2,N,646,Liability,American Family,0,PA
+AUTO-1332,42,fe,Single,2002,Honda,Accord,22668,23,0,0,No,527,Collision,Geico,0,CO
+AUTO-1333,43,F,Divorced,2022,Jeep,Wrangler,8743,24,1,0,Y,830,Collision,Allstate,0,MD
+AUTO-1334,50,F,Married,2019,Honda,CR-V,4181,32,0,3,Yes,461,Comprehensive,Farmers,7500,AZ
+AUTO-1335,19,FEMALE,Widowed,2018,Honnda,Civic,5248,24,1,1,TRUE,656,Collision,Farmers,500,MD
+AUTO-1336,30,FEMALE,Widowed,2018,Toyota,Corolla,8735,11,1,0,TRUE ,374,Liability,Farmers,3000,FL
+AUTO-1337,69,F,Divorced,2017,Jeep,Grand Cherokee,17508,50,1,1,Y,647,COLL,Nationwide,0,TN
+AUTO-1338,25,male,Single,2012,Honnda,Civic,13345,6,0,2,TRUE,309,LIAB,Farmers,500,MI
+AUTO-1339,23,FEMALE,Divorced,2002,BMW,3 Series,18615,5,0,0,TRUE,575,COMP,Allstate,15000,IL
+AUTO-1340,33,fe,Married,2008,Honnda,Civic,9644,16,1,1,Y,409,Comprehensive,Geico,15000,MD
+AUTO-1341,18,F,Single,2015,Frod,Focus,19133,0,0,1,Y,823,Collision,Liberty Mutual,500,MO
+AUTO-1342,26,Male,Widowed,2015,BMW,3 Series,19465,8,1,3,Y,768,Comprehensive,Travelers,15000,WA
+AUTO-1343,62,Male,Single,2021,Honnda,Accord,22038,46,0,1,TRUE,565,COMP,Travelers,1200,GA
+AUTO-1344,35,FEMALE,Divorced,2011,Honda,Accord,16891,18,1,3,No,673,COLL,Farmers,15000,PA
+AUTO-1345,54,M,Married,2003,Ford,F-150,21197,35,1,0,Y,453,COLL,State Farm,0,VA
+AUTO-1346,49,M,Divorced,2015,Ford,Focus,21420,29,0,1,Yes,467,Comprehensive,Allstate,1200,TN
+AUTO-1347,71,fe,Single,2014,Frod,Focus,14828,53,1,2,No,652,Comprehensive,Liberty Mutual,0,AZ
+AUTO-1348,73,fe,Married,2018,Jeep,Wrangler,12326,55,0,3,TRUE,799,LIAB,Nationwide,0,CO
+AUTO-1349,57,male,Widowed,2020,Honda,Civic,23990,39,1,3,TRUE,714,Comprehensive,Geico,0,WA
